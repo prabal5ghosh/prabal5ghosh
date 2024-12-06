@@ -7,11 +7,25 @@ Data Scientist
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [http://www.linkedin.com/in/prabal-ghosh-25a196158/](http://www.linkedin.com/in/prabal-ghosh-25a196158/)
 * ✉️  You can contact me at [prabal5ghosh@gmail.com](mailto:prabal5ghosh@gmail.com)
-* ## 🎓 Education  
-- **M2 in Data Science and Artificial Intelligence**  
-  Université Côte d'Azur, France (2024-2025)  
-- **M1 in Data Science and Artificial Intelligence**  
-  Université Côte d'Azur, France (2023 - 2024)  
+
+  ## 💼 Work Experience  
+- **Explainable Artificial Intelligence Intern**  
+  INRIA (02/05/2024 – 30/08/2024)  
+  *Sophia Antipolis, France*  
+  Worked on concept detection in deep Convolutional neural networks.  
+
+- **Graduate Engineer**  
+  Freshworks (18/07/2022 – 24/03/2023)  
+  *Chennai, India*  
+  Focused on Python Django and Ruby on Rails backend development.  
+
+- **Software Development Intern**  
+  Freshworks (04/04/2022 – 30/06/2022)  
+  *Chennai, India*  
+  Worked on Ruby on Rails full-stack development.
+* ## 🎓 Education   
+- **Msc in Data Science and Artificial Intelligence**  
+  Université Côte d'Azur, France (2023 - 2025)  
 - **Masters of Computer Applications**  
   Amrita Vishwa Vidyapeetham, India (2020-2022) Grade- 9.5/10
 - **BTech in Electronics and Communication Engineering (ECE)**  
