@@ -7,6 +7,16 @@ Data Scientist
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [http://www.linkedin.com/in/prabal-ghosh-25a196158/](http://www.linkedin.com/in/prabal-ghosh-25a196158/)
 * ✉️  You can contact me at [prabal5ghosh@gmail.com](mailto:prabal5ghosh@gmail.com)
+* ## 🎓 Education  
+- **M2 in Data Science and Artificial Intelligence**  
+  Université Côte d'Azur, France (2024-2025)  
+- **M1 in Data Science and Artificial Intelligence**  
+  Université Côte d'Azur, France (2023 - 2024)  
+- **Masters of Computer Applications**  
+  Amrita Vishwa Vidyapeetham, India (2020-2022) Grade- 9.5/10
+- **BTech in Electronics and Communication Engineering (ECE)**  
+  RCC Institute of Technology, India  (2014-2018) Grade- 7.86/10
+
 
 <a href="https://www.github.com/prabal5ghosh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prabal5ghosh?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
