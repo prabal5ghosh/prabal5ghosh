@@ -41,13 +41,10 @@
 - **BTech in Electronics and Communication Engineering (ECE)**  
   RCC Institute of Technology, India (2014 – 2018) Grade: 7.86/10  
 
-
-  # 🎓 Education
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_university_cote_dazur_nice_campus.jpg" alt="Université Côte d'Azur" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_university_cote_dazur_nice_campus.jpg" alt="Université Côte d'Azur" height="300" width="200" />
       <br>
       <b>Université Côte d'Azur</b>
     </td>
