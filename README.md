@@ -33,11 +33,11 @@
 
 - **MSc in Data Science and Artificial Intelligence**  
   Université Côte d'Azur, France (2023 – 2025)  
-  ![Université Côte d'Azur](https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Universit%C3%A9_C%C3%B4te_d%27Azur_logo.png/600px-Universit%C3%A9_C%C3%B4te_d%27Azur_logo.png)
+  ![Université Côte d'Azur](https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_university_cote_dazur_nice_campus.jpg)
 
 - **Masters of Computer Applications**  
   Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  
-  ![Amrita Vishwa Vidyapeetham](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Amrita_University_logo.png/800px-Amrita_University_logo.png)
+  ![Amrita Vishwa Vidyapeetham](https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_amrita.jpg)
 
 - **BTech in Electronics and Communication Engineering (ECE)**  
   RCC Institute of Technology, India (2014 – 2018) Grade: 7.86/10  
