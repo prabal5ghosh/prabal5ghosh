@@ -34,17 +34,18 @@
 - **MSc in Data Science and Artificial Intelligence**  
   Université Côte d'Azur, France (2023 – 2025)  
   <p align="right">
-    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_university_cote_dazur_nice_campus.jpg" alt="Université Côte d'Azur" width="300" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_university_cote_dazur_nice_campus.jpg" alt="Université Côte d'Azur" height = "200" width="300" />
   </p>
 - **Masters of Computer Applications**  
   Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  
 <p align="right">
-    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" width="300" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_amrita.jpg" alt="Amrita Vishwa Vidyapeetham"  height = "200"  width="300" />
   </p>
+  
 - **BTech in Electronics and Communication Engineering (ECE)**  
   RCC Institute of Technology, India (2014 – 2018) Grade: 7.86/10  
     <p align="right">
-    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" width="300" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology"  height = "200"  width="300" />
   </p>
 
 ---
