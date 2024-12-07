@@ -132,6 +132,12 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /> 
   </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/36/000000/api.png" width="36" height="36" alt="Django REST Framework" /> 
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby on Rails" /> 
+  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
   </a>
@@ -139,6 +145,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
   </a>
 </p>
+
 
 ---
 
