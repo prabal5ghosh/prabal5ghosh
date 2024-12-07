@@ -97,13 +97,13 @@
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraph.build%2Fresources%2Fgraph-query-languages&psig=AOvVaw0BTsIbxzzsOsz0BO37rvZa&ust=1733625005535000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDhl9vOlIoDFQAAAAAdAAAAABAE" width="36" height="36" alt="SPARQL" />
   </a>
   <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/shacl.png" width="36" height="36" alt="SHACL" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shacl.jpg" width="36" height="36" alt="SHACL" />
   </a>
   <a href="https://www.w3.org/RDF/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/rdf.png" width="36" height="36" alt="RDF" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/rdf.png" width="36" height="36" alt="RDF" />
   </a>
   <a href="https://www.w3.org/TR/rdf-schema/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/rdfs.png" width="36" height="36" alt="RDFS" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot 2024-12-07 033402.png" width="36" height="36" alt="RDFS" />
   </a>
 </p>
 
