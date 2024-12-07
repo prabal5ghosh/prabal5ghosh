@@ -87,6 +87,34 @@
   </a>
 </p>
 
+### Semantic Web & Query Languages
+
+<p align="left">
+  <a href="https://www.w3.org/OWL/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/owl.png" width="36" height="36" alt="OWL" />
+  </a>
+  <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/sparql.png" width="36" height="36" alt="SPARQL" />
+  </a>
+  <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/shacl.png" width="36" height="36" alt="SHACL" />
+  </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/plsql.png" width="36" height="36" alt="PL/SQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+</p>
+
 
 ### Frameworks and Tools
 
