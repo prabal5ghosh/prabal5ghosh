@@ -44,17 +44,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="250" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="400" />
       <br>
       <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="250" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="250" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="400" />
       <br>
       <b>RCC Institute of Technology</b>
     </td>
