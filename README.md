@@ -144,6 +144,30 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
   </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/keras.png" width="36" height="36" alt="Keras" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/scikit-learn.png" width="36" height="36" alt="Scikit-learn" />
+  </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/scipy.png" width="36" height="36" alt="SciPy" />
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/nltk.png" width="36" height="36" alt="NLTK" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/seaborn.png" width="36" height="36" alt="Seaborn" />
+  </a>
 </p>
 
 
