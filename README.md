@@ -44,17 +44,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="350" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="400" />
       <br>
       <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="400" />
       <br>
       <b>RCC Institute of Technology</b>
     </td>
@@ -63,7 +63,11 @@
 
 
 ---
+## 📜 Research Publications
 
+- **[A Study on Modeling the Dopaminergic Pathways of Parkinson’s Disease](https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of)**  
+  Published in *AIP Conference Proceedings*, focusing on modeling the dopaminergic pathways to understand Parkinson’s disease mechanisms.
+  
 ## 🛠 Skills
 
 ### Programming Languages
@@ -82,6 +86,42 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" />
   </a>
 </p>
+
+### Semantic Web & Query Languages
+
+<p align="left">
+  <a href="https://www.w3.org/OWL/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/owl.png" width="36" height="36" alt="OWL" />
+  </a>
+  <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/sparql.png" width="36" height="36" alt="SPARQL" />
+  </a>
+  <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/shacl.png" width="36" height="36" alt="SHACL" />
+  </a>
+  <a href="https://www.w3.org/RDF/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/rdf.png" width="36" height="36" alt="RDF" />
+  </a>
+  <a href="https://www.w3.org/TR/rdf-schema/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/rdfs.png" width="36" height="36" alt="RDFS" />
+  </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/36/000000/oracle-logo.png" width="36" height="36" alt="Oracle PL/SQL" />
+
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+</p>
+
 
 ### Frameworks and Tools
 
