@@ -49,7 +49,7 @@
       <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
