@@ -94,7 +94,7 @@
     <img src="https://img.icons8.com/color/36/000000/owl.png" width="36" height="36" alt="OWL" />
   </a>
   <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraph.build%2Fresources%2Fgraph-query-languages&psig=AOvVaw0BTsIbxzzsOsz0BO37rvZa&ust=1733625005535000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDhl9vOlIoDFQAAAAAdAAAAABAE" width="36" height="36" alt="SPARQL" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/sparql.png" width="36" height="36" alt="SPARQL" />
   </a>
   <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
     <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shacl.jpg" width="36" height="36" alt="SHACL" />
