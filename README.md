@@ -99,6 +99,12 @@
   <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/shacl.png" width="36" height="36" alt="SHACL" />
   </a>
+  <a href="https://www.w3.org/RDF/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/rdf.png" width="36" height="36" alt="RDF" />
+  </a>
+  <a href="https://www.w3.org/TR/rdf-schema/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/rdfs.png" width="36" height="36" alt="RDFS" />
+  </a>
 </p>
 
 ### Databases
