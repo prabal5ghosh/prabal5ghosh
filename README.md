@@ -114,7 +114,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/plsql.png" width="36" height="36" alt="PL/SQL" />
+        <img src="https://img.icons8.com/color/36/000000/oracle-logo.png" width="36" height="36" alt="Oracle PL/SQL" />
+
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
