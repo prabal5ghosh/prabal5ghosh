@@ -63,7 +63,11 @@
 
 
 ---
+## 📜 Research Publications
 
+- **[A Study on Modeling the Dopaminergic Pathways of Parkinson’s Disease](https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of)**  
+  Published in *AIP Conference Proceedings*, focusing on modeling the dopaminergic pathways to understand Parkinson’s disease mechanisms.
+  
 ## 🛠 Skills
 
 ### Programming Languages
@@ -83,10 +87,6 @@
   </a>
 </p>
 
-## 📜 Research Publications
-
-- **[A Study on Modeling the Dopaminergic Pathways of Parkinson’s Disease](https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of)**  
-  Published in *AIP Conference Proceedings*, focusing on modeling the dopaminergic pathways to understand Parkinson’s disease mechanisms.
 
 ### Frameworks and Tools
 
