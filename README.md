@@ -145,28 +145,29 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 128 128" viewBox="0 0 128 128"><path d="M128 128H0V0h128v128z" style="fill:#d00000"/><path d="M34.1 99.3c0 .1.1.2.1.3l2.2 2.2c.1.1.2.1.3.1h7.5c.1 0 .2-.1.3-.1l2.2-2.2c.1-.1.1-.2.1-.3V75.5c0-.1.1-.2.1-.3l9.5-9.1c.1-.1.2-.1.2 0l24.1 35.6c.1.1.2.1.3.1h10.6c.1 0 .2-.1.3-.2l1.9-3.7v-.3L65.7 56.9c-.1-.1 0-.2 0-.3l25.9-25.8c.1-.1.1-.2.1-.3V30c0-.1 0-.2-.1-.3l-1.5-3.4c0-.1-.1-.2-.2-.2H79.4c-.1 0-.2.1-.3.1L47 58.5c-.1.1-.1 0-.1-.1V28.9c0-.1-.1-.2-.1-.3l-2.2-2.3c-.1-.1-.2-.1-.3-.1h-7.6c-.1 0-.2.1-.3.1l-2.2 2.4c-.1.1-.1.2-.1.3v70.3z" style="fill:#fff"/></svg>
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/768px-Keras_logo.svg.png" width="36" height="36" alt="Keras" />
+
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/scikit-learn.png" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/scikitlearn-logo-300.png" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/scipy.png" width="36" height="36" alt="SciPy" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/spacy.png" width="36" height="36" alt="SciPy" />
   </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/nltk.png" width="36" height="36" alt="NLTK" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/nltk.png" width="36" height="36" alt="NLTK" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/numpy.png" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/pandas.png" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/matplotlib.png" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/seaborn.png" width="36" height="36" alt="Seaborn" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/logo-tall-lightbg.svg" width="36" height="36" alt="Seaborn" />
   </a>
 </p>
 
