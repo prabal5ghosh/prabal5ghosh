@@ -94,7 +94,7 @@
     <img src="https://img.icons8.com/color/36/000000/owl.png" width="36" height="36" alt="OWL" />
   </a>
   <a href="https://www.w3.org/TR/sparql11-overview/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/sparql.png" width="36" height="36" alt="SPARQL" />
+    <img src="https://img.icons8.com/?size=48&id=39913&format=png" width="36" height="36" alt="SPARQL" />
   </a>
   <a href="https://www.w3.org/TR/shacl/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/shacl.png" width="36" height="36" alt="SHACL" />
