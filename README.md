@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="450" />
       <br>
       <b>Université Côte d'Azur</b>
     </td>
