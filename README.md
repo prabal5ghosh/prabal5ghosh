@@ -86,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" />
   </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmathieuboudreau&psig=AOvVaw3YbnzzOnIkkcI1ov4SuCs2&ust=1741537406244000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMC1z87y-osDFQAAAAAdAAAAABAE" width="36" height="36" alt="matlab" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="matlab" />
   </a>
 
 
