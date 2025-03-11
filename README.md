@@ -8,6 +8,23 @@
 - 🖥️ See my portfolio at [LinkedIn](http://www.linkedin.com/in/prabal-ghosh-25a196158/)  
 - ✉️ You can contact me at [prabal5ghosh@gmail.com](mailto:prabal5ghosh@gmail.com)
 
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabal%20Ghosh-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/prabal-ghosh-25a196158/)
+
+---
+
+## 💼 LinkedIn Summary
+
+I am a Data Scientist based in France with a strong background in Artificial Intelligence, backend development, and full-stack development. I have experience working with various programming languages and frameworks, including Python, Ruby on Rails, and Django. I am currently pursuing an MSc in Data Science and Artificial Intelligence at Université Côte d'Azur.
+
+### Highlights:
+- Explainable Artificial Intelligence Intern at INRIA
+- Graduate Engineer at Freshworks
+- Published research on modeling the dopaminergic pathways of Parkinson’s disease
+
+For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-ghosh-25a196158/).
 ---
 
 ## 💼 Work Experience
