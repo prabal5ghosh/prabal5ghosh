@@ -51,10 +51,8 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 - **MSc in Data Science and Artificial Intelligence**  
   Université Côte d'Azur, France (2023 – 2025)
-    </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo-univ-nice-cote-dazur.svg/587px-Logo-univ-nice-cote-dazur.svg.png?20211016184305" width="50" height="36" alt="matlab" />
-  </a>
 
 - **Masters of Computer Applications**  
   Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  
