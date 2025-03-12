@@ -61,6 +61,27 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 - **BTech in Electronics and Communication Engineering (ECE)**  
   RCC Institute of Technology, India (2014 – 2018) Grade: 7.86/10  
 
+
+## 🎓 Education
+
+- **MSc in Data Science and Artificial Intelligence**  
+  Université Côte d'Azur, France (2023 – 2025)  
+  <a href="https://univ-cotedazur.fr" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo-univ-nice-cote-dazur.svg/587px-Logo-univ-nice-cote-dazur.svg.png?20211016184305" width="100" height="50" alt="Université Côte d'Azur" align="right"/>
+  </a>
+
+- **Masters of Computer Applications**  
+  Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  
+  <a href="https://www.amrita.edu" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Amrita_Vishwa_Vidyapeetham_logo.svg/512px-Amrita_Vishwa_Vidyapeetham_logo.svg.png" width="100" height="50" alt="Amrita Vishwa Vidyapeetham" align="right"/>
+  </a>
+
+- **BTech in Electronics and Communication Engineering (ECE)**  
+  RCC Institute of Technology, India (2014 – 2018) Grade: 7.86/10  
+  <a href="https://rcciit.org" target="_blank" rel="noreferrer">
+    <img src="https://rcciit.org/images/logo.png" width="100" height="50" alt="RCC Institute of Technology" align="right"/>
+  </a>
+
 <table>
   <tr>
     <td align="center">
