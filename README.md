@@ -35,7 +35,6 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   Team- Epione (Marco Lorenzi)
   
   *Sophia Antipolis, France*
-
   Worked on Multimodal Medical Imaging.
   
 - **Explainable Artificial Intelligence Intern**  
