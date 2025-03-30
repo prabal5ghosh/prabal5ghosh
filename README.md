@@ -32,8 +32,11 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 - **Explainable Artificial Intelligence Intern**  
   INRIA (01/04/2025 – 30/09/2025)
+  
   Team- Epione (Marco Lorenzi)
-  *Sophia Antipolis, France*  
+  
+  *Sophia Antipolis, France*
+  
   Worked on Multimodal Medical Imaging.
   
 - **Explainable Artificial Intelligence Intern**  
