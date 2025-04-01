@@ -67,7 +67,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   </a>
 
 - **Masters of Computer Applications**  
-  Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  
+  Amrita Vishwa Vidyapeetham, India (2020 – 2022) Grade: 9.5/10  ( University Gold Medalist )
   <a href="https://www.amrita.edu/campus/amritapuri/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-OmgMvcsf3sC5WBItq-AEoIpWPeZLlGKKb0wcvgjHC_RJHtNIwyMrJI&usqp=CAE&s" width="100" height="100" alt="Amrita Vishwa Vidyapeetham" align="right"/>
   </a>
