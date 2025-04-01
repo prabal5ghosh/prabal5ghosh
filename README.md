@@ -16,6 +16,7 @@
 I am a Data Scientist based in France with a strong background in Artificial Intelligence, backend development, and full-stack development. I have experience working with various programming languages and frameworks, including Python, Ruby on Rails, and Django. I am currently pursuing an MSc in Data Science and Artificial Intelligence at Université Côte d'Azur.
 
 ### Highlights:
+- Medical Image Analysis Intern at INRIA
 - Explainable Artificial Intelligence Intern at INRIA
 - Graduate Engineer at Freshworks
 - Published research on modeling the dopaminergic pathways of Parkinson’s disease
