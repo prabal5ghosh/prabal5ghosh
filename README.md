@@ -30,7 +30,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 ## 💼 Work Experience
 
-- **Explainable Artificial Intelligence Intern**  
+- **Medical Image Analysis Intern**  
   INRIA (01/04/2025 – 30/09/2025)
   Team- Epione (Marco Lorenzi)
   
