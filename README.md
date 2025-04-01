@@ -19,6 +19,7 @@ I am a Data Scientist based in France with a strong background in Artificial Int
 - Medical Image Analysis Intern at INRIA
 - Explainable Artificial Intelligence Intern at INRIA
 - Graduate Engineer at Freshworks
+- Software development Intern at Freshworks
 - Published research on modeling the dopaminergic pathways of Parkinson’s disease
 
 ### Data Scientist
