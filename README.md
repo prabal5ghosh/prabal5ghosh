@@ -98,6 +98,26 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca1.jpg" alt="Université Côte d'Azur" height="200" width="450" />
+      <br>
+      <b>Université Côte d'Azur</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca2.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="RCC Institute of Technology" height="200" width="400" />
+      <br>
+      <b>RCC Institute of Technology</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 ## 📜 Research Publications
