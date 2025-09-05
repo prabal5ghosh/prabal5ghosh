@@ -103,17 +103,17 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
     <td align="center">
       <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca1.jpg" alt="Université Côte d'Azur" height="200" width="300" />
       <br>
-      <b>Université Côte d'Azur</b>
+      <b>Université Côte d'Azur Defense</b>
     </td>
     <td align="center">
       <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca2.jpg" alt="Université Côte d'Azur" height="200" width="300" />
       <br>
-      <b>Amrita Vishwa Vidyapeetham</b>
+      <b>Université Côte d'Azur Defense</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
       <br>
-      <b>RCC Institute of Technology</b>
+      <b>Université Côte d'Azur M2 Defense</b>
     </td>
   </tr>
 </table>
