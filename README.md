@@ -268,9 +268,9 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
       <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca5.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
       <br>
-      <b>Université Côte d'Azur M2 Defense</b>
+      <b>Université Côte d'Azur</b>
     </td>
   </tr>
 </table>
@@ -302,17 +302,17 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita8.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita8.jpg" alt="Amrita Vishwa Vidyapeetham" height="300" width="200" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita10.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita10.jpg" alt="Amrita Vishwa Vidyapeetham" height="300" width="200" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita9.jpg" alt="Amrita Vishwa Vidyapeetham" height="250" width="400" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita9.jpg" alt="Amrita Vishwa Vidyapeetham" height="30" width="200" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
