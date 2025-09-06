@@ -302,7 +302,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita8.jpg" alt="Amrita Vishwa Vidyapeetham" height="300" width="200" />
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita8.jpg" alt="Amrita Vishwa Vidyapeetham" height="300" width="250" />
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
