@@ -326,6 +326,31 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita5.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="350" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita6.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="350" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita3.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="350" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita12.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="350" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
