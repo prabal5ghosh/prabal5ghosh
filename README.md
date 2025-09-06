@@ -78,6 +78,18 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Regional_Computer_Centre_Institute_Of_Information_Technology.png" width="50" height="100" alt="RCC Institute of Technology" align="right"/>
   </a>
 
+- **12th Higher Secondary Certificate**  
+Nayabasat Parbati Moyee Sikshaniketan, West Bengal Council of Higher Secondary Education, India (2014) Grade: 78.40 % (overall)
+Physics-90%
+Chemistry-90%
+Mathematics-86%
+
+
+- **10th Higher Secondary Certificate**  
+Nayabasat Parbati Moyee Sikshaniketan, West Bengal Board of Secondary Education (WBBSE), India (2012) Grade: 87.14% (overall)
+Mathematics = 97%
+GEOGRAPHY = 95%
+Biology = 94%
 
 ---
 ## 📜 Research Publications
