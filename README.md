@@ -316,6 +316,11 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
       <br>
       <b>Amrita Vishwa Vidyapeetham</b>
     </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita7.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
   </tr>
 </table>
 
