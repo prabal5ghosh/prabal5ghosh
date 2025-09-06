@@ -78,46 +78,6 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Regional_Computer_Centre_Institute_Of_Information_Technology.png" width="50" height="100" alt="RCC Institute of Technology" align="right"/>
   </a>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="450" />
-      <br>
-      <b>Université Côte d'Azur</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
-      <br>
-      <b>Amrita Vishwa Vidyapeetham</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="400" />
-      <br>
-      <b>RCC Institute of Technology</b>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca1.jpg" alt="Université Côte d'Azur" height="200" width="300" />
-      <br>
-      <b>Université Côte d'Azur Defense</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca2.jpg" alt="Université Côte d'Azur" height="200" width="300" />
-      <br>
-      <b>Université Côte d'Azur Defense</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
-      <br>
-      <b>Université Côte d'Azur M2 Defense</b>
-    </td>
-  </tr>
-</table>
-
 
 ---
 ## 📜 Research Publications
@@ -270,3 +230,118 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 <a href="https://github.com/prabal5ghosh">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+
+
+## Memories
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/shopia-summit-2023.jpg" alt="Université Côte d'Azur" height="200" width="450" />
+      <br>
+      <b>Université Côte d'Azur</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca1.jpg" alt="Université Côte d'Azur" height="200" width="300" />      
+      <br>
+      <b>Université Côte d'Azur Defense</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca2.jpg" alt="Université Côte d'Azur" height="200" width="300" />
+      <br>
+      <b>Université Côte d'Azur M2 Defense</b>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
+      <br>
+      <b>Université Côte d'Azur M2 Defense</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca4.jpg" alt="Université Côte d'Azur" height="200" width="300" />
+      <br>
+      <b>Université Côte d'Azur</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca3.jpg" alt="Université Côte d'Azur M2 Defense" height="250" width="400" />
+      <br>
+      <b>Université Côte d'Azur M2 Defense</b>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_amma_amrita.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita11.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita1.jpg" alt="Amrita Vishwa Vidyapeetham" height="250" width="400" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita8.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="400" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita10.jpg" alt="Amrita Vishwa Vidyapeetham" height="200" width="300" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/amrita9.jpg" alt="Amrita Vishwa Vidyapeetham" height="250" width="400" />
+      <br>
+      <b>Amrita Vishwa Vidyapeetham</b>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="400" />
+      <br>
+      <b>RCC Institute of Technology</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/rcc1.jpg" alt="Université Côte d'Azur" height="200" width="300" />
+      <br>
+      <b>RCC Institute of Technology</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/rcc2.jpg" alt="RCC Institute of Technology" height="250" width="400" />
+      <br>
+      <b>RCC Institute of Technology</b>
+    </td>
+  </tr>
+</table>
+
+
+
