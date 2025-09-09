@@ -37,7 +37,6 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   Team- Epione (<a href="https://marcolorenzi.github.io/team/" target="_blank">Marco Lorenzi</a>)
   
   *Sophia Antipolis, France*
-  
   Worked on Multimodal Medical Imaging.
 
 - **Explainable Artificial Intelligence Intern**  
@@ -45,7 +44,6 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   Team- MAASAI (Frédéric Precioso)
   
   *Sophia Antipolis, France*
-  
   Worked on concept detection in deep convolutional neural networks.
 
 - **Graduate Engineer**  
