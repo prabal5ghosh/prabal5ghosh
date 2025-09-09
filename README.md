@@ -38,7 +38,8 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   
   *Sophia Antipolis, France*
   Worked on Multimodal Medical Imaging.
-  
+    <a href="[https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence](https://marcolorenzi.github.io/team/)" target="_blank" rel="noreferrer">
+  </a>
 - **Explainable Artificial Intelligence Intern**  
   INRIA (02/05/2024 – 30/08/2024)
   Team- MAASAI (Frédéric Precioso)
