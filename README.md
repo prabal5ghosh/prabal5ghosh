@@ -257,9 +257,9 @@ Biology = 94%
       <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca1.jpg" alt="Université Côte d'Azur" height="200" width="300" />      
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca_prabal.jpg" alt="Université Côte d'Azur" height="300" width="250" />      
       <br>
-      <b>Université Côte d'Azur Defense</b>
+      <b>Université Côte d'Azur</b>
     </td>
     <td align="center">
       <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/uca2.jpg" alt="Université Côte d'Azur" height="200" width="300" />
