@@ -39,8 +39,8 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   *Sophia Antipolis, France*
   
   Worked on Multimodal Medical Imaging.
-  
-<a href="https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD" target="_blank">MRI Analysis for Disease Progression Assessment in FSHD</a>
+    <a href="https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD" target="_blank">MRI Analysis for Disease Progression Assessment in FSHD</a>
+    
 - **Explainable Artificial Intelligence Intern**  
   INRIA (02/05/2024 – 30/08/2024)
   Team- MAASAI (Frédéric Precioso)
