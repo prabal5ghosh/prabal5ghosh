@@ -98,7 +98,11 @@ Biology = 94%
 
 - **[A Study on Modeling the Dopaminergic Pathways of Parkinson’s Disease](https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of)**  
   Published in *AIP Conference Proceedings*, focusing on modeling the dopaminergic pathways to understand Parkinson’s disease mechanisms.
-  
+
+## 📜 Google Scholar
+
+- **[Prabal Ghosh Google Scholar]([https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of](https://scholar.google.com/citations?user=aDgirOYAAAAJ&hl=en))**
+---
 ## 🛠 Skills
 
 ### Programming Languages
