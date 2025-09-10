@@ -101,7 +101,7 @@ Biology = 94%
 
 ## 📜 Google Scholar
 
-- **[Prabal Ghosh Google Scholar]([https://pubs.aip.org/aip/acp/article/2917/1/050008/2919404/A-study-on-modeling-the-dopaminergic-pathways-of](https://scholar.google.com/citations?user=aDgirOYAAAAJ&hl=en))**
+- **[Prabal Ghosh Google Scholar](https://scholar.google.com/citations?user=aDgirOYAAAAJ&hl=en)**
 ---
 ## 🛠 Skills
 
