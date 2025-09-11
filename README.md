@@ -42,7 +42,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
     <a href="https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD" target="_blank">MRI Analysis for Disease Progression Assessment in FSHD</a>
     
 - **Explainable Artificial Intelligence Intern**  
-  INRIA (02/05/2024 – 30/08/2024)
+  <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="blank">INRIA</a>  (02/05/2024 – 30/08/2024)
   Team- MAASAI (Frédéric Precioso)
   
   *Sophia Antipolis, France*
