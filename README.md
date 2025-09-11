@@ -48,6 +48,9 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   *Sophia Antipolis, France*
   
   Worked on concept detection in deep convolutional neural networks.
+    <a href="https://github.com/prabal5ghosh/concept_conditional_relevance_explanatory_graph_for_CNN_Internship_Inria" target="_blank">Concept Detection in Deep Learning</a>
+    
+  
 
 - **Graduate Engineer**  
   Freshworks (18/07/2022 – 24/03/2023)  
