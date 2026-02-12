@@ -80,14 +80,14 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 - **M2 in Data Science and Artificial Intelligence**  
   Université Côte d'Azur, France (2024 – 2025)  Grade: 14.97 / 20
   <a href="https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence" target="_blank" rel="noreferrer">
-    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA-Logo-1niveau-CMJN.jpg"  width="100" height="50" alt="Université Côte d'Azur" align="right" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA-Logo-1niveau-CMJN.jpg"  width="200" height="100" alt="Université Côte d'Azur" align="right" />
     
   </a>
 
 - **M1 in Data Science and Artificial Intelligence**  
   Université Côte d'Azur, France (2023 – 2024)  Grade: 12.95 / 20
   <a href="https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence" target="_blank" rel="noreferrer">
-    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA-Logo-1niveau-CMJN.jpg"  width="100" height="50" alt="Université Côte d'Azur" align="right" />
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA-Logo-1niveau-CMJN.jpg"  width="200" height="100" alt="Université Côte d'Azur" align="right" />
       
   </a>
 
