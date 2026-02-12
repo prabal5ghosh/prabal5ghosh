@@ -64,8 +64,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 ---
 
-%==================== HONORS & AWARDS ====================
-## Honors and Awards
+## 🎓 Honors and Awards
 
 - **University Gold Medal**  
 
