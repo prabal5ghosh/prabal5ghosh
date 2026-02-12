@@ -43,7 +43,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
     
 - **Explainable Artificial Intelligence Intern**  
   <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="blank">INRIA</a>  (02/05/2024 – 30/08/2024)
-  Team- MAASAI (Frédéric Precioso)
+  Team- MAASAI (Frédéric Precioso and Rémy Sun)
   
   *Sophia Antipolis, France*
   
