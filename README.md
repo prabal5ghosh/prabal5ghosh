@@ -64,6 +64,15 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 ---
 
+%==================== HONORS & AWARDS ====================
+\section*{Honors and Awards}
+\begin{itemize}
+    \item \textbf{\href{https://drive.google.com/file/d/1e1LoCiBQS0pa1RY7Sqq9ExXxV91ZV-O2/view?usp=sharing}{University Gold Medal}} (Ranked 1st class 1st in the University), Master of Computer Applications (MCA), Amrita Vishwa Vidyapeetham, India.
+\vspace{3pt}
+    
+    \item \textbf{\href{https://drive.google.com/file/d/1mJ25kKW6BXe46kuKL2t1r7Ntz37RMZrB/view?usp=sharing}{IDEX (Initiative d’Excellence) Excellence Scholarship}}, Université Côte d’Azur, France, awarded for academic excellence during the Master’s program.     
+\end{itemize}
+---
 ## 🎓 Education
 
 - **MSc in Data Science and Artificial Intelligence**  
