@@ -66,9 +66,14 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 %==================== HONORS & AWARDS ====================
 ## Honors and Awards
-  <a href="https://drive.google.com/file/d/1e1LoCiBQS0pa1RY7Sqq9ExXxV91ZV-O2/view?usp=sharing" target="_blank">{University Gold Medal}(Ranked 1st class 1st in the University), Master of Computer Applications (MCA), Amrita Vishwa Vidyapeetham, India.</a>
 
-  <a href=https://drive.google.com/file/d/1mJ25kKW6BXe46kuKL2t1r7Ntz37RMZrB/view?usp=sharing>{IDEX (Initiative d’Excellence) Excellence Scholarship}}, Université Côte d’Azur, France, awarded for academic excellence during the Master’s program. </a>
+- **University Gold Medal**  
+
+  <a href="https://drive.google.com/file/d/1e1LoCiBQS0pa1RY7Sqq9ExXxV91ZV-O2/view?usp=sharing" target="_blank">{}(Ranked 1st class 1st in the University), Master of Computer Applications (MCA), Amrita Vishwa Vidyapeetham, India.</a>
+
+- **IDEX (Initiative d’Excellence) Excellence Scholarship**  
+
+  <a href="https://drive.google.com/file/d/1mJ25kKW6BXe46kuKL2t1r7Ntz37RMZrB/view?usp=sharing"> Université Côte d’Azur, France, awarded for academic excellence during the Master’s program. </a>
     
 ---
 ## 🎓 Education
