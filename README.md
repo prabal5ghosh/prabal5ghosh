@@ -68,7 +68,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 - **University Gold Medal**  
 
-  <a href="https://drive.google.com/file/d/1e1LoCiBQS0pa1RY7Sqq9ExXxV91ZV-O2/view?usp=sharing" target="_blank">{}(Ranked 1st class 1st in the University), Master of Computer Applications (MCA), Amrita Vishwa Vidyapeetham, India.</a>
+  <a href="https://drive.google.com/file/d/1e1LoCiBQS0pa1RY7Sqq9ExXxV91ZV-O2/view?usp=sharing" target="_blank">Ranked 1st class 1st in the University, Master of Computer Applications (MCA), Amrita Vishwa Vidyapeetham, India.</a>
 
 - **IDEX (Initiative d’Excellence) Excellence Scholarship**  
 
