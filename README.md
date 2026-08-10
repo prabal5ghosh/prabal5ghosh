@@ -100,8 +100,9 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 - **BTech in Electronics and Communication Engineering (ECE)**  
   RCC Institute of Technology, India (2014 – 2018) Grade: 78.60%  
   <a href="https://rcciit.org" target="_blank" rel="noreferrer">
+      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Maulana_Abul_Kalam_Azad_University_of_Technology_Logo.svg" alt="MAKAUT" height="100" width="100" align="right"/>
+  
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Regional_Computer_Centre_Institute_Of_Information_Technology.png" width="50" height="100" alt="RCC Institute of Technology" align="right"/>
-      <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Maulana_Abul_Kalam_Azad_University_of_Technology_Logo.svg" alt="MAKAUT" height="50" width="100" align="right"/>
     
   </a>
 
