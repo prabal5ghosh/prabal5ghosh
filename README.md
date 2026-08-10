@@ -398,6 +398,7 @@ Biology = 94%
   <tr>
     <td align="center">
       <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/prabal_ghosh_rcciit.jpg" alt="RCC Institute of Technology" height="200" width="400" />
+      <img src="https://en.wikipedia.org/wiki/Maulana_Abul_Kalam_Azad_University_of_Technology" alt="RCC Institute of Technology" height="200" width="400" />
       <br>
       <b>RCC Institute of Technology</b>
     </td>
