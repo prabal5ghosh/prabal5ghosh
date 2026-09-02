@@ -127,7 +127,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
 - **IDEX (Initiative d’Excellence) Excellence Scholarship**  
 
-  <a href="https://drive.google.com/file/d/1mJ25kKW6BXe46kuKL2t1r7Ntz37RMZrB/view?usp=sharing"> Université Côte d’Azur, France, awarded for academic excellence during the Master’s program. </a>
+  <a href="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/2023-24_DSAI_M1_GHOSH%20Prabal_Attestation%20de%20bourse%20IDEX.pdf"> Université Côte d’Azur, France, awarded for academic excellence during the Master’s program. </a>
     
 ---
 ## 🎓 Education
