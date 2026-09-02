@@ -67,7 +67,11 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
          align="right" />
   </a>
 
-
+   <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="blank">INRIA</a> (01/04/2025 – 30/09/2025)
+  Team- <a href="https://team.inria.fr/epione/en/" target="_blank">Epione</a>, supervisor- (<a href="https://marcolorenzi.github.io/team/" target="_blank">Marco Lorenzi</a>)
+  
+  *Sophia Antipolis, France*
+  
   **INRIA** (01/04/2025 – 30/09/2025)  
   Team- [Epione](https://team.inria.fr/epione/en/), supervisor- [Marco Lorenzi](https://marcolorenzi.github.io/team/)
 
