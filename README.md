@@ -88,7 +88,23 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   Freshworks (18/07/2022 – 24/03/2023)  
   *Chennai, India*  
   Focused on Python Django and Ruby on Rails backend development.
+- **Graduate Engineer**
 
+  <a href="https://www.freshworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Freshworks-vector-logo.svg/960px-Freshworks-vector-logo.svg.png"
+         width="150"
+         height="auto"
+         alt="Freshworks"
+         align="right" />
+  </a>
+
+  <a href="https://www.freshworks.com/" target="_blank" rel="noreferrer">
+    Freshworks
+  </a> (18/07/2022 – 24/03/2023)
+
+  *Chennai, India*
+
+  Focused on Python Django and Ruby on Rails backend development.
 - **Software Development Intern**  
   Freshworks (04/04/2022 – 30/06/2022)  
   *Chennai, India*  
