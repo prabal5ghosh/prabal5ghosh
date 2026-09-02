@@ -100,10 +100,6 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   
   Focused on Python Django and Ruby on Rails backend development.
 
-- **Software Development Intern**  
-  Freshworks (04/04/2022 – 30/06/2022)  
-  *Chennai, India*  
-  Worked on Ruby on Rails full-stack development.
 
 - **Software Development Intern**  
 
@@ -115,10 +111,10 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
          align="right" />
   </a>
 
-  <a href="https://www.freshworks.com/" target="_blank" rel="noreferrer">
-    Freshworks
-  </a> (04/04/2022 – 30/06/2022)
+  <a href="https://www.freshworks.com/" target="_blank" rel="noreferrer"> Freshworks </a> (04/04/2022 – 30/06/2022)
+  
   *Chennai, India*
+  
   Worked on Ruby on Rails full-stack development.
 
 ---
