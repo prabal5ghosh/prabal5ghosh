@@ -76,17 +76,13 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
          alt="Inria"
          align="right" />
   </a>
-
-  <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="_blank" rel="noreferrer">
-    INRIA
-  </a> (02/05/2024 – 30/08/2024)
-
+  <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="blank">INRIA</a>  (02/05/2024 – 30/08/2024)
+  
   *Sophia Antipolis, France*
-
-  Worked on concept detection in deep convolutional neural networks.  
-  <a href="https://github.com/prabal5ghosh/concept_conditional_relevance_explanatory_graph_for_CNN_Internship_Inria"
-     target="_blank" rel="noreferrer">Concept Detection in Deep Learning</a>
-
+  
+  Worked on concept detection in deep convolutional neural networks.
+    <a href="https://github.com/prabal5ghosh/concept_conditional_relevance_explanatory_graph_for_CNN_Internship_Inria" target="_blank">Concept Detection in Deep Learning</a>
+    
 
 
 
