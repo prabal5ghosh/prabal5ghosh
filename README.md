@@ -40,6 +40,55 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   
   Worked on Multimodal Medical Imaging.
     <a href="https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD" target="_blank">MRI Analysis for Disease Progression Assessment in FSHD</a>
+
+
+
+
+
+
+
+
+
+- **Medical Image Analysis Intern**
+
+  <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="_blank" rel="noreferrer">
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot%20from%202026-09-02%2014-27-11.png"
+         width="110"
+         height="auto"
+         alt="Inria"
+         align="right" />
+  </a>
+
+  <a href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot%20from%202026-09-02%2014-27-58.png"
+         width="100"
+         height="auto"
+         alt="CHU de Nice"
+         align="right" />
+  </a>
+
+
+  **INRIA** (01/04/2025 – 30/09/2025)  
+  Team- [Epione](https://team.inria.fr/epione/en/), supervisor- [Marco Lorenzi](https://marcolorenzi.github.io/team/)
+
+  *Sophia Antipolis, France*
+
+  Worked on Multimodal Medical Imaging.  
+  [MRI Analysis for Disease Progression Assessment in FSHD](https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 - **Explainable Artificial Intelligence Intern**  
   <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="blank">INRIA</a>  (02/05/2024 – 30/08/2024)
