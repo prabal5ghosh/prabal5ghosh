@@ -53,7 +53,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
   <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="_blank" rel="noreferrer">
     <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot%20from%202026-09-02%2014-27-11.png"
-         width="110"
+         width="180"
          height="auto"
          alt="Inria"
          align="right" />
@@ -61,7 +61,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
   <a href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">
     <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot%20from%202026-09-02%2014-27-58.png"
-         width="100"
+         width="180"
          height="auto"
          alt="CHU de Nice"
          align="right" />
