@@ -118,9 +118,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
   <a href="https://www.freshworks.com/" target="_blank" rel="noreferrer">
     Freshworks
   </a> (04/04/2022 – 30/06/2022)
-
   *Chennai, India*
-
   Worked on Ruby on Rails full-stack development.
 
 ---
