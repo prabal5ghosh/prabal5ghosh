@@ -71,7 +71,7 @@ For more details, visit my [LinkedIn profile](http://www.linkedin.com/in/prabal-
 
   <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur" target="_blank" rel="noreferrer">
     <img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/Screenshot%20from%202026-09-02%2014-27-11.png"
-         width="220"
+         width="250"
          height="auto"
          alt="Inria"
          align="right" />
