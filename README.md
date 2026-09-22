@@ -619,30 +619,57 @@ Overall Grade: **87.14%**
 
 <div align="center">
 
-<a href="https://github.com/prabal5ghosh">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=prabal5ghosh&show_icons=true&hide_border=true&include_all_commits=true"
-    alt="Prabal Ghosh GitHub Stats"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-stats/overview.dark.svg"
   />
-</a>
-
-<a href="https://github.com/prabal5ghosh">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&layout=compact&langs_count=8&hide_border=true"
-    alt="Prabal Ghosh Top Languages"
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-stats/overview.light.svg"
   />
-</a>
+  <img
+    alt="Prabal Ghosh GitHub Statistics"
+    src="./assets/github-stats/overview.light.svg"
+    width="100%"
+  />
+</picture>
 
 <br><br>
 
-<a href="https://github.com/prabal5ghosh">
-  <img
-    src="https://streak-stats.demolab.com/?user=prabal5ghosh&hide_border=true"
-    alt="Prabal Ghosh GitHub Streak"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-stats/contributions.dark.svg"
   />
-</a>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-stats/contributions.light.svg"
+  />
+  <img
+    alt="Prabal Ghosh GitHub Contributions"
+    src="./assets/github-stats/contributions.light.svg"
+    width="100%"
+  />
+</picture>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-stats/languages.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-stats/languages.light.svg"
+  />
+  <img
+    alt="Prabal Ghosh Programming Languages"
+    src="./assets/github-stats/languages.light.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
