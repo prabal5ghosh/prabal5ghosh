@@ -615,22 +615,34 @@ Overall Grade: **87.14%**
 | **Research Areas**           | Medical Imaging, XAI, Multimodal AI, Longitudinal Modelling |
 
 ---
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=prabal5ghosh&show_icons=true&count_private=true&hide_border=true" alt="Prabal Ghosh GitHub Stats"/>
+<a href="https://github.com/prabal5ghosh">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=prabal5ghosh&show_icons=true&hide_border=true&include_all_commits=true"
+    alt="Prabal Ghosh GitHub Stats"
+  />
+</a>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&layout=compact&langs_count=8&hide_border=true" alt="Prabal Ghosh Top Languages"/>
+<a href="https://github.com/prabal5ghosh">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&layout=compact&langs_count=8&hide_border=true"
+    alt="Prabal Ghosh Top Languages"
+  />
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabal5ghosh&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/prabal5ghosh">
+  <img
+    src="https://streak-stats.demolab.com/?user=prabal5ghosh&hide_border=true"
+    alt="Prabal Ghosh GitHub Streak"
+  />
+</a>
 
 </div>
 
