@@ -623,12 +623,12 @@ Overall Grade: **87.14%**
 
 <br><br>
 
-<a href="https://github.com/prabal5ghosh">
+<!-- <a href="https://github.com/prabal5ghosh">
   <img
     src="https://github-readme-stats.vercel.app/api?username=prabal5ghosh&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true"
     alt="Prabal Ghosh GitHub Stats"
   />
-</a>
+</a> -->
 
 <br><br>
 
@@ -641,12 +641,12 @@ Overall Grade: **87.14%**
 
 <br><br>
 
-<a href="https://github.com/prabal5ghosh">
+<!-- <a href="https://github.com/prabal5ghosh">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&langs_count=10&layout=compact&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages"
     alt="Prabal Ghosh Top Languages"
   />
-</a>
+</a> -->
 
 </div>
 
