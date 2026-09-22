@@ -615,61 +615,38 @@ Overall Grade: **87.14%**
 | **Research Areas**           | Medical Imaging, XAI, Multimodal AI, Longitudinal Modelling |
 
 ---
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-stats/overview.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-stats/overview.light.svg"
-  />
-  <img
-    alt="Prabal Ghosh GitHub Statistics"
-    src="./assets/github-stats/overview.light.svg"
-    width="100%"
-  />
-</picture>
+<b>My GitHub Stats</b>
 
 <br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-stats/contributions.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-stats/contributions.light.svg"
-  />
+<a href="https://github.com/prabal5ghosh">
   <img
-    alt="Prabal Ghosh GitHub Contributions"
-    src="./assets/github-stats/contributions.light.svg"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=prabal5ghosh&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true"
+    alt="Prabal Ghosh GitHub Stats"
   />
-</picture>
+</a>
 
 <br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-stats/languages.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-stats/languages.light.svg"
-  />
+<a href="https://github.com/prabal5ghosh">
   <img
-    alt="Prabal Ghosh Programming Languages"
-    src="./assets/github-stats/languages.light.svg"
-    width="100%"
+    src="https://streak-stats.demolab.com/?user=prabal5ghosh&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+    alt="Prabal Ghosh GitHub Streak"
   />
-</picture>
+</a>
+
+<br><br>
+
+<a href="https://github.com/prabal5ghosh">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal5ghosh&langs_count=10&layout=compact&title_color=84cc16&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages"
+    alt="Prabal Ghosh Top Languages"
+  />
+</a>
 
 </div>
 
