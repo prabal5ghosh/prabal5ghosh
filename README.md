@@ -866,6 +866,30 @@ A few memories from my academic and research journey.
 
 ---
 
+# 🎓 Academic Achievements
+
+A glimpse of my academic degree achievements at Université Côte d'Azur.
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA_M1_Certificate.jpg" height="260" alt="Université Côte d'Azur M1 Certificate"/>
+<br>
+<b>M1 — Data Science & Artificial Intelligence</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA_M2_Certificate.jpg" height="260" alt="Université Côte d'Azur M2 Certificate"/>
+<br>
+<b>M2 — Data Science & Artificial Intelligence</b>
+</td>
+
+</tr>
+</table>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
