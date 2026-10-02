@@ -7,7 +7,7 @@
 <p>
 Research-oriented Data Scientist and AI practitioner based in France, working at the intersection of
 <strong>Artificial Intelligence, Medical Imaging, Machine Learning, and Computational Healthcare</strong>.
-</p>
+</p>AC
 
 <p>
   <a href="https://prabal5ghosh.github.io/">
@@ -373,12 +373,14 @@ Awarded during the MSc Data Science & Artificial Intelligence program in recogni
 
 📅 **2023 – 2025**
 
-**M2 — Data Science and Artificial Intelligence**
+**M2 — Data Science and Artificial Intelligence** (2024- 2025)
 Grade: **14.97 / 20**
-
-**M1 — Data Science and Artificial Intelligence**
+🎓 [View M2 Certificate](https://www.smartcertificate.com/SmartCertificate/?1%7ca7f991e8-caed-43eb-a8dd-7ea902a5cadb%7cc728926f-781a-44bd-a637-47a1752136d8)
+<br>
+**M1 — Data Science and Artificial Intelligence** (2023-2024)
 Grade: **12.95 / 20**
-
+🎓 [View M1 Certificate](https://www.smartcertificate.com/SmartCertificate/?1%7c5d5d86ba-23ce-4e72-971f-f92095ccd89f%7c1741deec-e11b-4d93-9755-ea44e9c95d1a)
+<br>
 🏅 Recipient of the **IDEX Excellence Scholarship**
 
 🔗 [Program Website](https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence)
