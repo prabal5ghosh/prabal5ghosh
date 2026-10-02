@@ -332,7 +332,16 @@ Worked on **Ruby on Rails full-stack development**.
 <table>
 <tr>
 
+<!-- =====================================================
+     UNIVERSITY GOLD MEDAL
+===================================================== -->
+
 <td width="50%" valign="top">
+
+<table>
+<tr>
+
+<td width="75%" valign="top">
 
 ### 🥇 University Gold Medal
 
@@ -344,7 +353,34 @@ Awarded for achieving **1st rank in the university** during the Master of Comput
 
 </td>
 
+<td width="25%" align="center" valign="middle">
+
+<a href="https://www.amrita.edu/">
+<img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-OmgMvcsf3sC5WBItq-AEoIpWPeZLlGKKb0wcvgjHC_RJHtNIwyMrJI&usqp=CAE&s"
+  width="90"
+  alt="Amrita Vishwa Vidyapeetham"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+
+<!-- =====================================================
+     IDEX EXCELLENCE SCHOLARSHIP
+===================================================== -->
+
 <td width="50%" valign="top">
+
+<table>
+<tr>
+
+<td width="75%" valign="top">
 
 ### 🎓 IDEX Excellence Scholarship
 
@@ -353,6 +389,23 @@ Awarded for achieving **1st rank in the university** during the Master of Comput
 Awarded during the MSc Data Science & Artificial Intelligence program in recognition of academic excellence.
 
 [View credential](https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/2023-24_DSAI_M1_GHOSH%20Prabal_Attestation%20de%20bourse%20IDEX.pdf)
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<a href="https://univ-cotedazur.eu/">
+<img
+  src="https://github.com/prabal5ghosh/prabal5ghosh/blob/main/Assets/UCA-Logo-1niveau-CMJN.jpg?raw=true"
+  width="110"
+  alt="Université Côte d'Azur"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
