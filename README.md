@@ -13,7 +13,7 @@ Research-oriented Data Scientist and AI practitioner based in France, working at
   <a href="https://prabal5ghosh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://prabal5ghosh.github.io/cv.pdf">
+  <a href="https://prabal5ghosh.github.io/CV.pdf">
     <img src="https://img.shields.io/badge/CV-View%20CV-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prabal-ghosh-25a196158/">
