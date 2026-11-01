@@ -8,7 +8,7 @@
 Research-oriented Data Scientist and AI practitioner based in France, working at the intersection of
 <strong>Artificial Intelligence, Medical Imaging, Machine Learning, and Computational Healthcare</strong>.
 </p>AC
-<img src="https://img.shields.io/badge/Visit-My%20Portfolio-167e70?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit My Portfolio" />
+<!-- <img src="https://img.shields.io/badge/Visit-My%20Portfolio-167e70?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit My Portfolio" /> -->
 <p>
   <a href="https://prabal5ghosh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
