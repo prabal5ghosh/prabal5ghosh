@@ -11,7 +11,8 @@ Research-oriented Data Scientist and AI practitioner based in France, working at
 <!-- <img src="https://img.shields.io/badge/Visit-My%20Portfolio-167e70?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit My Portfolio" /> -->
 <p>
   <a href="https://prabal5ghosh.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-167e70?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit My Portfolio" />
   </a>
   <a href="https://prabal5ghosh.github.io/CV.pdf">
     <img src="https://img.shields.io/badge/CV-View%20CV-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
