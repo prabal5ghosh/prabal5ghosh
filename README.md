@@ -211,9 +211,6 @@ The work focuses on mathematical and computational modelling of dopaminergic pat
 📅 **01 April 2025 – 30 September 2025**
 📍 *Sophia Antipolis, France*
 
-**Team:** [Epione](https://team.inria.fr/epione/en/)
-**Supervisor:** [Marco Lorenzi](https://marcolorenzi.github.io/team/)
-
 Worked on **multimodal medical imaging and MRI analysis** for disease progression assessment in FSHD.
 
 🔗 [MRI Analysis for Disease Progression Assessment in FSHD](https://github.com/prabal5ghosh/MRI-Analysis-for-Disease-Progression-Assessment-in-FSHD)
